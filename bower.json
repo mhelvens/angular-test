@@ -1,0 +1,25 @@
+{
+  "name": "AngularTest",
+  "version": "0.0.0",
+  "authors": [
+    "Michiel Helvensteijn <mhelvens@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16",
+    "requirejs": "~2.1.11",
+    "jquery": "~2.1.1",
+    "es5-shim": "~3.1.1",
+    "es6-shim": "~0.10.1",
+    "requirejs-domready": "~2.0.1"
+  }
+}
